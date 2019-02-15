@@ -1,0 +1,12 @@
+jupyter/10_Consumer_Complaints/Consumer_Complaints.csv
+
+*.csv
+*.txt
+*.train
+*.vec
+*.bin
+*.tsv
+
+
+
+
